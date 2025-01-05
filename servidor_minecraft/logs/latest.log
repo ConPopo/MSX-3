@@ -125,3 +125,12 @@
 [22:03:47] [Server thread/INFO]: rafa_123__xd has made the advancement [Take Aim]
 [22:03:50] [Server thread/INFO]: Norsx_ was shot by rafa_123__xd
 [22:04:25] [Server thread/INFO]: Norsx_ was shot by rafa_123__xd
+[22:04:34] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
+[22:04:48] [Server thread/INFO]: Villager class_1646['Farmer'/1710, l='ServerLevel[world]', x=247.44, y=77.00, z=269.49] died, message: 'Farmer was shot by rafa_123__xd'
+[22:08:11] [Server thread/INFO]: Norsx_ has made the advancement [Isn't It Iron Pick]
+[22:10:25] [Server thread/INFO]: Norsx_ lost connection: You logged in from another location
+[22:10:25] [Server thread/INFO]: Norsx_ left the game
+[22:10:25] [Server thread/WARN]: handleDisconnection() called twice
+[22:10:27] [Server thread/INFO]: Norsx_[/[0:0:0:0:0:0:0:1%0]:39036] logged in with entity id 12435 at (254.08418675532275, 80.0, 265.3279661545878)
+[22:10:27] [Server thread/INFO]: Norsx_ joined the game
+[22:13:56] [Server thread/INFO]: Norsx_ was shot by rafa_123__xd
