@@ -327,6 +327,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-05 23:21:22 +0000",
       "bread": "2025-01-05 21:34:12 +0000",
       "rotten_flesh": "2025-01-05 21:33:07 +0000",
       "baked_potato": "2025-01-05 21:52:13 +0000",
@@ -343,8 +344,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-05 22:05:18 +0000",
+      "minecraft:piglin": "2025-01-05 23:13:30 +0000",
       "minecraft:stray": "2025-01-05 21:49:15 +0000",
-      "minecraft:zombie": "2025-01-05 21:32:51 +0000"
+      "minecraft:enderman": "2025-01-05 23:23:26 +0000",
+      "minecraft:zombie": "2025-01-05 21:32:51 +0000",
+      "minecraft:hoglin": "2025-01-05 23:17:25 +0000"
     },
     "done": false
   },
@@ -906,6 +910,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-05 22:51:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-01-05 22:58:00 +0000"
@@ -918,9 +928,94 @@
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
-      "shot_crossbow": "2025-01-05 22:51:17 +0000"
+      "has_ice": "2025-01-05 23:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-05 23:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-05 23:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-05 23:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-05 23:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-05 23:12:01 +0000",
+      "minecraft:warped_forest": "2025-01-05 23:23:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-05 23:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-05 23:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-05 23:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-05 23:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-05 23:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-05 23:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-05 23:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-05 23:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-01-05 23:23:07 +0000"
     },
     "done": true
   },
