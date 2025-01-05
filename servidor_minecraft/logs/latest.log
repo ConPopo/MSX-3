@@ -1,8 +1,8 @@
-[21:24:18] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[21:24:18] [main/WARN]: Warnings were found!
+[22:47:39] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[22:47:39] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.0.8 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[21:24:18] [main/INFO]: Loading 53 mods:
+[22:47:39] [main/INFO]: Loading 53 mods:
 	- chunky 1.4.16
 	- clumps 18.0.0.2
 	- collective 7.87
@@ -68,117 +68,45 @@
 	- minecraft 1.21
 	- skinrestorer 2.2.1+1.21-fabric
 	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
-[21:24:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX-3/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:24:18] [main/INFO]: Compatibility level set to JAVA_17
-[21:24:18] [main/INFO]: Compatibility level set to JAVA_18
-[21:24:18] [main/INFO]: Compatibility level set to JAVA_21
-[21:24:19] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:24:19] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21:24:30] [main/INFO]: Loading Collective version 7.87.
-[21:24:31] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:24:35] [main/INFO]: Loaded 1290 recipes
-[21:24:35] [main/INFO]: Loaded 1399 advancements
-[21:24:36] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 18.45 ms
-[21:24:36] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:24:36] [Server thread/INFO]: Loading properties
-[21:24:36] [Server thread/INFO]: Default game type: SURVIVAL
-[21:24:36] [Server thread/INFO]: Generating keypair
-[21:24:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:24:37] [Server thread/INFO]: Using epoll channel type
-[21:24:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:24:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:24:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:24:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:24:37] [Server thread/INFO]: Preparing level "world"
-[21:24:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:24:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:24:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:24:46] [Server thread/INFO]: Time elapsed: 1033 ms
-[21:24:46] [Server thread/INFO]: Done (9.486s)! For help, type "help"
-[21:24:52] [Server thread/INFO]: rafa_123__xd[/[0:0:0:0:0:0:0:1%0]:36230] logged in with entity id 69 at (28.234043549419788, 64.0, 4.523228271936152)
-[21:24:52] [Server thread/INFO]: rafa_123__xd joined the game
-[21:25:16] [Server thread/INFO]: Norsx_[/[0:0:0:0:0:0:0:1%0]:42360] logged in with entity id 262 at (35.04905630614177, 65.0, -8.984859569960989)
-[21:25:16] [Server thread/INFO]: Norsx_ joined the game
-[21:29:04] [Server thread/INFO]: rafa_123__xd has made the advancement [Stone Age]
-[21:29:19] [Server thread/INFO]: Norsx_ has made the advancement [Stone Age]
-[21:29:39] [Server thread/INFO]: Norsx_ has made the advancement [Getting an Upgrade]
-[21:30:14] [Server thread/INFO]: Seed: [-6171123507152608549]
-[21:30:41] [Server thread/INFO]: [Not Secure] <rafa_123__xd> 256 ~ 320
-[21:32:51] [Server thread/INFO]: Norsx_ has made the advancement [Monster Hunter]
-[21:33:10] [Server thread/INFO]: rafa_123__xd has made the advancement [Monster Hunter]
-[21:33:24] [Server thread/INFO]: rafa_123__xd was shot by Stray
-[21:33:38] [Server thread/INFO]: Norsx_ has made the advancement [Sweet Dreams]
-[21:34:41] [Server thread/INFO]: rafa_123__xd has made the advancement [Sweet Dreams]
-[21:35:09] [Server thread/INFO]: Norsx_ was shot by Skeleton
-[21:37:46] [Server thread/INFO]: rafa_123__xd has made the advancement [Getting an Upgrade]
-[21:39:15] [Server thread/INFO]: rafa_123__xd has made the advancement [Acquire Hardware]
-[21:47:20] [Server thread/INFO]: rafa_123__xd was blown up by Creeper
-[21:47:22] [Server thread/INFO]: Norsx_ has made the advancement [Acquire Hardware]
-[21:48:10] [Server thread/INFO]: Norsx_ was slain by Enderman
-[21:48:36] [Server thread/INFO]: rafa_123__xd was slain by Enderman
-[21:50:52] [Server thread/INFO]: rafa_123__xd was shot by Norsx_
-[21:50:52] [Server thread/INFO]: Norsx_ has made the advancement [Take Aim]
-[21:50:59] [Server thread/INFO]: Norsx_ was slain by rafa_123__xd
-[21:58:30] [Server thread/INFO]: Norsx_ has made the advancement [What a Deal!]
-[21:59:48] [Server thread/INFO]: rafa_123__xd has made the advancement [What a Deal!]
-[22:03:08] [Server thread/INFO]: rafa_123__xd was shot by Norsx_
-[22:03:47] [Server thread/INFO]: rafa_123__xd has made the advancement [Take Aim]
-[22:03:50] [Server thread/INFO]: Norsx_ was shot by rafa_123__xd
-[22:04:25] [Server thread/INFO]: Norsx_ was shot by rafa_123__xd
-[22:04:34] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
-[22:04:48] [Server thread/INFO]: Villager class_1646['Farmer'/1710, l='ServerLevel[world]', x=247.44, y=77.00, z=269.49] died, message: 'Farmer was shot by rafa_123__xd'
-[22:08:11] [Server thread/INFO]: Norsx_ has made the advancement [Isn't It Iron Pick]
-[22:10:25] [Server thread/INFO]: Norsx_ lost connection: You logged in from another location
-[22:10:25] [Server thread/INFO]: Norsx_ left the game
-[22:10:25] [Server thread/WARN]: handleDisconnection() called twice
-[22:10:27] [Server thread/INFO]: Norsx_[/[0:0:0:0:0:0:0:1%0]:39036] logged in with entity id 12435 at (254.08418675532275, 80.0, 265.3279661545878)
-[22:10:27] [Server thread/INFO]: Norsx_ joined the game
-[22:13:56] [Server thread/INFO]: Norsx_ was shot by rafa_123__xd
-[22:15:02] [Server thread/INFO]: rafa_123__xd hit the ground too hard
-[22:16:58] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
-[22:17:26] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
-[22:18:05] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
-[22:19:00] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
-[22:19:24] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
-[22:19:39] [Server thread/INFO]: Made rafa_123__xd a server operator
-[22:19:48] [Server thread/INFO]: Norsx_ was slain by rafa_123__xd
-[22:19:58] [Server thread/INFO]: Villager class_1646['Fletcher'/1879, l='ServerLevel[world]', x=251.52, y=77.00, z=261.87] died, message: 'Fletcher was shot by rafa_123__xd'
-[22:20:05] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
-[22:20:23] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
-[22:20:49] [Server thread/INFO]: Norsx_ was slain by rafa_123__xd
-[22:21:08] [Server thread/INFO]: Norsx_ was slain by rafa_123__xd
-[22:21:52] [Server thread/INFO]: rafa_123__xd has made the advancement [A Seedy Place]
-[22:21:54] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
-[22:21:59] [Server thread/INFO]: Norsx_ lost connection: Kicked by an operator
-[22:21:59] [Server thread/INFO]: Norsx_ left the game
-[22:21:59] [Server thread/INFO]: [rafa_123__xd: Kicked Norsx_: Kicked by an operator]
-[22:21:59] [Server thread/WARN]: handleDisconnection() called twice
-[22:22:06] [Server thread/INFO]: Norsx_[/[0:0:0:0:0:0:0:1%0]:57858] logged in with entity id 17927 at (260.62308536014126, 82.79673560066871, 295.01348551376987)
-[22:22:06] [Server thread/INFO]: Norsx_ joined the game
-[22:22:35] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
-[22:24:18] [Server thread/INFO]: Norsx_ was slain by rafa_123__xd
-[22:27:07] [Server thread/INFO]: Norsx_ was slain by rafa_123__xd
-[22:27:25] [Server thread/INFO]: rafa_123__xd hit the ground too hard while trying to escape Norsx_
-[22:28:26] [Server thread/INFO]: [rafa_123__xd: Set own game mode to Creative Mode]
-[22:28:32] [Server thread/INFO]: [rafa_123__xd: Set own game mode to Survival Mode]
-[22:29:02] [Server thread/INFO]: rafa_123__xd was slain by Zombie
-[22:30:12] [Server thread/INFO]: Norsx_ was slain by Zombie
-[22:31:29] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
-[22:31:35] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
-[22:31:40] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
-[22:31:46] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
-[22:31:51] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
-[22:31:58] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
-[22:32:12] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
-[22:32:18] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
-[22:37:42] [Server thread/INFO]: Norsx_ hit the ground too hard while trying to escape rafa_123__xd
-[22:38:13] [Server thread/INFO]: Norsx_ was shot by rafa_123__xd
-[22:39:16] [Server thread/INFO]: rafa_123__xd was shot by Norsx_
-[22:41:14] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
-[22:42:35] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
-[22:42:48] [Server thread/INFO]: Norsx_ was slain by rafa_123__xd
-[22:43:05] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
-[22:43:29] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
-[22:43:42] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
-[22:44:08] [Server thread/INFO]: Norsx_ was slain by rafa_123__xd
-[22:44:29] [Server thread/INFO]: rafa_123__xd was slain by Norsx_
+[22:47:39] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSX-3/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:47:39] [main/INFO]: Compatibility level set to JAVA_17
+[22:47:39] [main/INFO]: Compatibility level set to JAVA_18
+[22:47:39] [main/INFO]: Compatibility level set to JAVA_21
+[22:47:40] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:47:40] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:47:51] [main/INFO]: Loading Collective version 7.87.
+[22:47:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:47:54] [main/INFO]: Loaded 1290 recipes
+[22:47:55] [main/INFO]: Loaded 1399 advancements
+[22:47:56] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 6.045 ms
+[22:47:56] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:47:56] [Server thread/INFO]: Loading properties
+[22:47:56] [Server thread/INFO]: Default game type: SURVIVAL
+[22:47:56] [Server thread/INFO]: Generating keypair
+[22:47:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:47:56] [Server thread/INFO]: Using epoll channel type
+[22:47:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:47:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:47:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:47:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:47:56] [Server thread/INFO]: Preparing level "world"
+[22:48:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:48:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:48:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:48:06] [Server thread/INFO]: Time elapsed: 1011 ms
+[22:48:06] [Server thread/INFO]: Done (9.572s)! For help, type "help"
+[22:48:11] [Server thread/INFO]: rafa_123__xd[/100.126.205.66:49302] logged in with entity id 11 at (249.5168915546637, 77.5625, 258.5482569942737)
+[22:48:11] [Server thread/INFO]: rafa_123__xd joined the game
+[22:48:18] [Server thread/INFO]: Norsx_[/100.84.44.112:52535] logged in with entity id 356 at (244.99930387419076, 77.0, 265.27326875055275)
+[22:48:18] [Server thread/INFO]: Norsx_ joined the game
+[22:48:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22:48:47] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
+[22:49:41] [Server thread/INFO]: rafa_123__xd has made the advancement [Suit Up]
+[22:50:37] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
+[22:51:17] [Server thread/INFO]: Norsx_ has made the advancement [Ol' Betsy]
+[22:52:57] [Server thread/INFO]: rafa_123__xd was slain by Iron Golem
+[22:53:01] [Server thread/INFO]: rafa_123__xd lost connection: Disconnected
+[22:53:01] [Server thread/INFO]: rafa_123__xd left the game
+[22:53:09] [Server thread/INFO]: rafa_123__xd[/100.126.205.66:49327] logged in with entity id 6256 at (250.53953390971253, 78.0, 258.30000001192093)
+[22:53:09] [Server thread/INFO]: rafa_123__xd joined the game
+[22:57:10] [Server thread/INFO]: [Not Secure] <rafa_123__xd> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
